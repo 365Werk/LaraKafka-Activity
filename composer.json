@@ -2,7 +2,7 @@
     "name": "werk365/larakafka-activity",
     "description": "Spatie Activitylogger extention for Lara Kafka",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Hergen Dillema",
@@ -33,7 +33,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "LaraKafkaActivityServiceProvider"
+                "Werk365\\LaraKafkaActivity\\LaraKafkaActivityServiceProvider"
             ]
         }
     }
