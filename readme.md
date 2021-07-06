@@ -53,11 +53,11 @@ license. Please see the [license file](license.md) for more information.
 [ico-version]: https://img.shields.io/packagist/v/werk365/larakafka-activity.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/werk365/larakafka-activity.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/werk365/larakafka-activity/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/321376691/shield
+[ico-styleci]: https://styleci.io/repos/383457421/shield
 
 [link-packagist]: https://packagist.org/packages/werk365/larakafka-activity
 [link-downloads]: https://packagist.org/packages/werk365/larakafka-activity
 [link-travis]: https://travis-ci.org/werk365/larakafka
-[link-styleci]: https://styleci.io/repos/321376691
+[link-styleci]: https://styleci.io/repos/383457421
 [link-author]: https://github.com/HergenD
 [link-contributors]: ../../contributors
